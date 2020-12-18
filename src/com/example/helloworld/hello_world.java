@@ -13,6 +13,8 @@ public class hello_world {
             System.out.println("hello world !");
         else
             System.out.println("Hello manali naik !");
+        
+        System.out.println("Welcome");
     }
 
 }
