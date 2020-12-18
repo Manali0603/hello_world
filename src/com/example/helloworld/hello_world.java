@@ -12,7 +12,7 @@ public class hello_world {
         if(a+b>10)
             System.out.println("hello world !");
         else
-            System.out.println("Hello manali");
+            System.out.println("Hello manali naik !");
     }
 
 }
